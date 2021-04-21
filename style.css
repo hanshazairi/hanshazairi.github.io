@@ -1,0 +1,12 @@
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+	font-size: 32px;
+}
+
+#main div {
+	display: flex;
+	flex-direction: column;
+}
